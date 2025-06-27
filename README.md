@@ -10,3 +10,16 @@ The *version2* folder contains the source code of the MyDewetra platform version
 **dewetra2-backend** contains the backend of the dewetra2 applicatrion, written in Python 2.7.
 
 **dewetra2-frontend** contains the frontend of the dewetra2 application, written in AngularJS.
+
+
+
+## Terms & Conditions
+
+<details>
+  <summary>📄 Read the Terms and Conditions</summary>
+
+ Below you will find a preview of the document.
+Click on 'Read Terms and Conditions' to open it in full.
+
+  [▶️ Leggi tutto →](docs/Termini_Condizioni_rev8_WORLD_en_EN.md)
+</details>
