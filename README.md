@@ -21,5 +21,5 @@ The *version2* folder contains the source code of the MyDewetra platform version
  Below you will find a preview of the document.
 Click on 'Read Terms and Conditions' to open it in full.
 
-  [▶️ Leggi tutto →](docs/Termini_Condizioni_rev8_WORLD_en_EN.md)
+  [▶️ Leggi tutto →](Termini_Condizioni_rev8_WORLD_en_EN.md)
 </details>
