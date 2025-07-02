@@ -1,0 +1,47 @@
+PROJECT LINE COUNT REPORT
+Generated: 2025-07-02 14:22:14
+Project Path: backend-dewetra2
+Total Files Analyzed: 36
+
+SUMMARY BY LANGUAGE:
+Python: 35 files | 4913 lines
+Markdown: 1 files | 2 lines
+
+DETAILED FILE LIST:
+Path | Total | Code | Blank | Comments | Language
+backend-dewetra2/dewetra2/core/auth.py | 67 | 52 | 14 | 1 | Python
+backend-dewetra2/dewetra2/core/config_resources.py | 471 | 311 | 153 | 7 | Python
+backend-dewetra2/dewetra2/core/manage_doc.py | 333 | 264 | 55 | 14 | Python
+backend-dewetra2/dewetra2/core/models_resources.py | 171 | 136 | 21 | 14 | Python
+backend-dewetra2/dewetra2/core/permissions.py | 156 | 92 | 48 | 16 | Python
+backend-dewetra2/dewetra2/core/report_resources.py | 169 | 116 | 50 | 3 | Python
+backend-dewetra2/dewetra2/core/tool_scenario.py | 998 | 663 | 273 | 62 | Python
+backend-dewetra2/dewetra2/core/tool_scenario_old.py | 257 | 163 | 64 | 30 | Python
+backend-dewetra2/dewetra2/core/tools_resources.py | 331 | 195 | 117 | 19 | Python
+backend-dewetra2/dewetra2/core/util_resources.py | 87 | 62 | 25 | 0 | Python
+backend-dewetra2/dewetra2/dds/dds_client.py | 277 | 229 | 38 | 10 | Python
+backend-dewetra2/dewetra2/dds/dds_client2.py | 125 | 89 | 29 | 7 | Python
+backend-dewetra2/dewetra2/dds/resources.py | 367 | 258 | 96 | 13 | Python
+backend-dewetra2/dewetra2/gs_config/gs_manager.py | 155 | 108 | 46 | 1 | Python
+backend-dewetra2/dewetra2/gs_config/resources.py | 184 | 103 | 68 | 13 | Python
+backend-dewetra2/dewetra2/layers/floodproof/reader.py | 143 | 109 | 32 | 2 | Python
+backend-dewetra2/dewetra2/layers/floodproof/resources.py | 115 | 78 | 37 | 0 | Python
+backend-dewetra2/dewetra2/models.py | 124 | 87 | 21 | 16 | Python
+backend-dewetra2/dewetra2/profiles/resources.py | 53 | 29 | 17 | 7 | Python
+backend-dewetra2/dewetra2/settings.py | 140 | 76 | 42 | 22 | Python
+backend-dewetra2/dewetra2/urls.py | 79 | 61 | 18 | 0 | Python
+
+STATISTICS:
+Total Lines: 4915
+Code Lines: 3357 (68.3% )
+Blank Lines: 1295 (26.3% )
+Comment Lines: 263 (5.4% )
+
+Largest Files:
+backend-dewetra2/dewetra2/core/tool_scenario.py - 998 lines
+backend-dewetra2/dewetra2/core/config_resources.py - 471 lines
+backend-dewetra2/dewetra2/dds/resources.py - 367 lines
+backend-dewetra2/dewetra2/core/manage_doc.py - 333 lines
+backend-dewetra2/dewetra2/core/tools_resources.py - 331 lines
+
+Average Lines per File: 136
