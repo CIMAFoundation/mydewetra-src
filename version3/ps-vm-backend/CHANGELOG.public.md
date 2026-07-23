@@ -1,1 +1,1 @@
-Public source publish for refs/tags/v1.0.3
+Public source publish for refs/tags/v1.0.6
